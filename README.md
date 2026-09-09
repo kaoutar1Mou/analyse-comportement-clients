@@ -1,4 +1,4 @@
-# analyse-comportement-achat
+# analyse-comportement-clients
 Analyse de bout en bout des tendances d'achat et du comportement des clients  en utilisant SQL  et Power BI.
 
 *(Projet Data Analytics – Python, SQL, Power BI)*
@@ -20,21 +20,8 @@ L’objectif principal est d’identifier les tendances, les segments de clients
 
 ---
 
-##  **3. Architecture du dépôt**
 
-```
-📁 analyse-comportement-clients/
-│── 📄 README.md
-│── 📁 python_scripts/
-│── 📁 sql_queries/
-│── 📁 powerbi_dashboard/
-│── 📁 data/  
-│── 📄 rapport/Comportement_Clients_Rapport.pdf
-```
-
----
-
-##  **4. Préparation & Exploration des Données (Python)**
+##  **3. Préparation & Exploration des Données (Python)**
 
 * Chargement et exploration initiale (`pandas`, `df.info()`, `df.describe()`)
 * Gestion des valeurs manquantes (imputation par médiane par catégorie)
@@ -48,7 +35,7 @@ L’objectif principal est d’identifier les tendances, les segments de clients
 
 ---
 
-##  **5. Analyse SQL (Transactions commerciales)**
+##  **4. Analyse SQL (Transactions commerciales)**
 
 Les analyses ont été réalisées dans **MySQL** pour répondre à plusieurs questions stratégiques :
 
@@ -63,11 +50,11 @@ Les analyses ont été réalisées dans **MySQL** pour répondre à plusieurs qu
 * Achat répété + probabilité d’abonnement
 * Revenus par tranche d’âge
 
-Les requêtes SQL sont disponibles dans le dossier `/sql_queries/`.
+
 
 ---
 
-##  **6. Tableau de bord Power BI**
+##  **5. Tableau de bord Power BI**
 
 Un tableau de bord interactif met en évidence :
 
@@ -79,7 +66,7 @@ Un tableau de bord interactif met en évidence :
 
 ---
 
-##  **7. Recommandations Business**
+##  **6. Recommandations Business**
 
 * **Augmenter les abonnements** via des avantages exclusifs
 * **Programmes de fidélité** pour encourager les achats récurrents
@@ -89,7 +76,7 @@ Un tableau de bord interactif met en évidence :
 
 ---
 
-##  **8. Technologies utilisées**
+##  **7. Technologies utilisées**
 
 * **Python** : Pandas, NumPy
 * **SQL** : MySQL
@@ -98,13 +85,10 @@ Un tableau de bord interactif met en évidence :
 
 ---
 
-##  **9. Rapport du projet**
+##  **8. Rapport du projet**
 
 Le rapport complet au format PDF est disponible ici :
   `Comportement_Clients_Rapport.pdf`
 
 
-
-
-. Extraction d’insights sur les dépenses, les segments clients, les remises, les produits les mieux notés, et la probabilité d’abonnement. Inclut scripts Python, requêtes SQL, dashboard Power BI et rapport complet.
 
