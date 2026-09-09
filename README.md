@@ -55,13 +55,9 @@ Les analyses ont été réalisées dans **MySQL** pour répondre à plusieurs qu
 ---
 
 ##  **5. Tableau de bord Power BI**
-
-Un tableau de bord interactif met en évidence :
-
-* les tendances d’achat,
-* les segments clés,
-* les performances produits,
-* les métriques business essentielles (revenu, fréquence, remises…)
+  
+  ![Comportement Clients Dashboard](comportement_clients_dashboard.PNG)
+  
 
 
 ---
