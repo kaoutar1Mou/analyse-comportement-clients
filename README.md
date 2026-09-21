@@ -77,7 +77,6 @@ Les analyses ont été réalisées dans **MySQL** pour répondre à plusieurs qu
 * **Python** : Pandas, NumPy
 * **SQL** : MySQL
 * **Data Visualization** : Power BI
-* **Gestion de version** : Git & GitHub
 
 ---
 
