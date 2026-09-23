@@ -64,11 +64,11 @@ Les analyses ont été réalisées dans **MySQL** pour répondre à plusieurs qu
 
 ##  **6. Recommandations Business**
 
-* **Augmenter les abonnements** via des avantages exclusifs
-* **Programmes de fidélité** pour encourager les achats récurrents
-* **Optimisation des remises** afin de préserver les marges
-* **Mise en avant des produits performants** dans les campagnes
-* **Marketing ciblé** sur les tranches d’âge à fort revenu et les utilisateurs Express
+* **Renforcer la fidélisation client en proposant des récompenses et des avantages aux clients réguliers.**
+* **Revoir la proposition de valeur de l’abonnement afin d’encourager davantage de clients à s’abonner.** 
+* **Optimiser la politique de réduction en analysant l’efficacité des promotions tout en préservant les marges.** 
+* **Adapter les campagnes marketing aux segments et catégories générant le plus de revenus.** 
+* **Mettre en avant les produits les mieux notés et les plus achetés dans les campagnes marketing.** 
 
 ---
 
