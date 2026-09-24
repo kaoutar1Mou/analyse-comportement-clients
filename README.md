@@ -3,7 +3,7 @@ Analyse de bout en bout des tendances d'achat et du comportement des clients  en
 
 *(Projet Data Analytics – Python, SQL, Power BI)*
 
-## 📌 ** 1. Présentation du projet**
+## 📌 **1. Présentation du projet**
 
 Ce projet analyse le comportement d’achat des clients à partir d’un ensemble de données transactionnelles comprenant **3 900 achats**.
 L’objectif principal est d’identifier les tendances, les segments de clients, les produits performants et les facteurs influençant la fidélité et l’abonnement, afin de soutenir la prise de décision stratégique.
@@ -35,7 +35,7 @@ L’objectif principal est d’identifier les tendances, les segments de clients
 
 ---
 
-## 🗄️ **4. Analyse SQL (Transactions commerciales)**
+## 🔍 **4. Analyse SQL (Transactions commerciales)**
 
 Les analyses ont été réalisées dans **MySQL** pour répondre à plusieurs questions stratégiques :
 
