@@ -74,9 +74,9 @@ Les analyses ont été réalisées dans **MySQL** pour répondre à plusieurs qu
 
 ## 🛠️ **7. Technologies utilisées**
 
-* **Python** : Pandas
-* **SQL** : MySQL
-* **Data Visualization** : Power BI
+* **Python (Pandas)**
+* **SQL/MySQL**
+* **Power BI**
 
 ---
 
