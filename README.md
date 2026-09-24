@@ -1,16 +1,16 @@
-# analyse-comportement-clients
+# 📊 analyse-comportement-clients
 Analyse de bout en bout des tendances d'achat et du comportement des clients  en utilisant SQL  et Power BI.
 
 *(Projet Data Analytics – Python, SQL, Power BI)*
 
-##  **1. Présentation du projet**
+## 📌 ** 1. Présentation du projet**
 
 Ce projet analyse le comportement d’achat des clients à partir d’un ensemble de données transactionnelles comprenant **3 900 achats**.
 L’objectif principal est d’identifier les tendances, les segments de clients, les produits performants et les facteurs influençant la fidélité et l’abonnement, afin de soutenir la prise de décision stratégique.
 
 ---
 
-##  **2. Objectifs du projet**
+## 🎯 **2. Objectifs du projet**
 
 * Comprendre les modèles de dépense selon différents segments clients.
 * Identifier les produits les plus performants et les catégories clés.
@@ -21,7 +21,7 @@ L’objectif principal est d’identifier les tendances, les segments de clients
 ---
 
 
-##  **3. Préparation & Exploration des Données (Python)**
+## ⚙️ **3. Préparation & Exploration des Données (Python)**
 
 * Chargement et exploration initiale (`pandas`, `df.info()`, `df.describe()`)
 * Gestion des valeurs manquantes (imputation par médiane par catégorie)
@@ -35,7 +35,7 @@ L’objectif principal est d’identifier les tendances, les segments de clients
 
 ---
 
-##  **4. Analyse SQL (Transactions commerciales)**
+## 🗄️ **4. Analyse SQL (Transactions commerciales)**
 
 Les analyses ont été réalisées dans **MySQL** pour répondre à plusieurs questions stratégiques :
 
@@ -54,7 +54,7 @@ Les analyses ont été réalisées dans **MySQL** pour répondre à plusieurs qu
 
 ---
 
-##  **5. Tableau de bord Power BI**
+## 📊 **5. Tableau de bord Power BI**
   
   ![Comportement Clients Dashboard](comportement_clients_dashboard.PNG)
   
@@ -62,7 +62,7 @@ Les analyses ont été réalisées dans **MySQL** pour répondre à plusieurs qu
 
 ---
 
-##  **6. Recommandations Business**
+## 🎯 **6. Recommandations Business**
 
 * **Renforcer la fidélisation client en proposant des récompenses et des avantages aux clients réguliers.**
 * **Revoir la proposition de valeur de l’abonnement afin d’encourager davantage de clients à s’abonner.** 
@@ -72,7 +72,7 @@ Les analyses ont été réalisées dans **MySQL** pour répondre à plusieurs qu
 
 ---
 
-##  **7. Technologies utilisées**
+## 🛠️ **7. Technologies utilisées**
 
 * **Python** : Pandas
 * **SQL** : MySQL
